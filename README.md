@@ -4,9 +4,13 @@ Glassware-Icon-Font-WordPress-Plugin
 Glassware Icon Font WordPress Plugin
 
 Glassware Icon Font
+
 Author: Sunjay Lal
+
 Author URI: http://www.SunjayLal.com/
+
 Tags: Bar and cocktail glassware icons
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin adds a Glassware Icon Font to your WordPress site enabling you to use these icons anywhere on your site by simply adding a class!
